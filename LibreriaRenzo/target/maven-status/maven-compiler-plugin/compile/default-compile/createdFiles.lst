@@ -1,0 +1,16 @@
+com\example\demo\controladores\AutorController.class
+com\example\demo\DemoApplication.class
+com\example\demo\repositorios\AutorRepositorio.class
+com\example\demo\repositorios\LibroRepositorio.class
+com\example\demo\controladores\PortalControlador.class
+com\example\demo\servicios\EditorialServicio.class
+com\example\demo\servicios\LibroServicio.class
+com\example\demo\entidades\Libro.class
+com\example\demo\repositorios\EditorialRepositorio.class
+com\example\demo\controladores\EditorialController.class
+com\example\demo\ServletInitializer.class
+com\example\demo\entidades\Editorial.class
+com\example\demo\servicios\AutorServicio.class
+com\example\demo\controladores\LibroController.class
+com\example\demo\errores\ErrorServicio.class
+com\example\demo\entidades\Autor.class
