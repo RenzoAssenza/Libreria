@@ -74,7 +74,7 @@ public class AutorController {
         Autor autor = autorServicio.buscarPorId(id);
         try {
             modelo.put("nombreAutor", autor.getNombre());
-            autorServicio.modificar(id, nombreAutor, id);
+            autorServicio.modificar(id, nombreAutor,id);
         } catch (ErrorServicio ex) {
             modelo.put("tipo", autor);
             modelo.put("error", ex.getMessage());
